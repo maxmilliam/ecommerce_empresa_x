@@ -4,4 +4,4 @@ Este é um e-commerce para a empresa X, feito em PHP e MySQL
 
 ## Funcionalidades
 
-checkou
+checkout, Tela de produto, Catalogo, Home
